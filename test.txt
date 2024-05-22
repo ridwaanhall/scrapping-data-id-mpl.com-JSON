@@ -1,0 +1,234 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <h4 class="d-flex flex-row justify-content-center align-items-center">
+                <img
+                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-256.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240522T102906Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=5a543d413ce89e2f6d8fa7d5cbebaf77e6a711973c0f9dc09a3124a036331bb5"
+                    alt="AE"
+                    class="team-logo"
+                />
+                ALTER EGO ESPORTS
+            </h4>
+
+            <div class="d-flex flex-row justify-content-center align-items-center icon-socmed">
+                <div class="m-1">
+                    <a href="https://www.facebook.com/alteregoesportsid" target="_blank">
+                        <i class="icon-facebook-square"></i>
+                    </a>
+                </div>
+                <div class="m-1">
+                    <a href="https://www.instagram.com/alteregoesports" target="_blank">
+                        <i class="icon-instagram"></i>
+                    </a>
+                </div>
+                <div class="m-1">
+                    <a href="https://www.youtube.com/channel/UCu3Oq_wEChEPaV7abgY688g" target="_blank">
+                        <i class="icon-youtube-square"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-ga-impression="Section Roster Team Detail">
+        <h5 class="text-center">
+            ROSTER SEASON 13
+        </h5>
+        <div class="row">
+            <div class="col-md-3 col-6">
+                <div class="player-image">
+                    <div class="player-image-bg">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Player/AE/Nafari.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240522T090613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=4a027b981553c3694c041404a3f7337cb4efe63506900b1bb1ed3daf8b486d75"
+                            alt="Nafari"
+                        />
+                    </div>
+                </div>
+                <div class="player-name">
+                    Nafari
+                </div>
+                <div class="player-role text-center">
+                    Head Coach
+                </div>
+            </div>
+            <div class="col-md-3 col-6">
+                <div class="player-image">
+                    <div class="player-image-bg">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Player/AE/Arss.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&X-Amz-Date=20240522T090613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=8abef429b2c3da873047b35021567fd2c1c5263f5dec4aa5ed9f0ba64968b09b"
+                            alt="Arss"
+                        />
+                    </div>
+                </div>
+                <div class="player-name">
+                    Arss
+                </div>
+                <div class="player-role text-center">
+                    Assistent Coach
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-ga-impression="Section Match Team Detail">
+        <h5 class="text-center">
+            MATCH SEASON 13
+        </h5>
+
+        <div class="row">
+            <div class="col-sm-6 col-12">
+                <div class="match-team" style="background-image: linear-gradient(to right, transparent 80%, gold);">
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=ff6e8cf2ac64bbff35042db12a5ccb11f6ca3bbaa432344cdde54528f189e26f"
+                            alt="logo-team-AE"
+                        />
+
+                        AE
+                    </div>
+                    <div class="match-score-team">
+                        <div class="score">2 - 0</div>
+                    </div>
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=c9b0b8f0ef6abd2351561c650f1cbd3c37e3be83b35c8dbea271f8e06000a1f2"
+                            alt="logo-team-EVOS"
+                        />
+
+                        EVOS
+                    </div>
+                    <div class="match-detail">
+                        <div class="row">
+                            <div class="col-9">
+                                <div>
+                                    Week 1
+                                </div>
+                                <div style="font-weight: 400;">
+                                    8 Mar - 15:00
+                                </div>
+                            </div>
+                            <div class="col-3 match-status-wl">
+                                WIN
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="match-team" style="background-image: linear-gradient(to right, transparent 80%, gold);">
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/Rebellion%20x64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=6e58471576c8db18d7d39c44906a55c14ff07ef9d7b2321191ad02abceca53e2"
+                            alt="logo-team-RBL"
+                        />
+
+                        RBL
+                    </div>
+                    <div class="match-score-team">
+                        <div class="score">1 - 2</div>
+                    </div>
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=ff6e8cf2ac64bbff35042db12a5ccb11f6ca3bbaa432344cdde54528f189e26f"
+                            alt="logo-team-AE"
+                        />
+
+                        AE
+                    </div>
+                    <div class="match-detail">
+                        <div class="row">
+                            <div class="col-9">
+                                <div>
+                                    Week 1
+                                </div>
+                                <div style="font-weight: 400;">
+                                    9 Mar - 18:30
+                                </div>
+                            </div>
+                            <div class="col-3 match-status-wl">
+                                WIN
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-6">
+                <div class="match-team" style="background-image: linear-gradient(to right, transparent 80%, #a0a0a0);">
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=ff6e8cf2ac64bbff35042db12a5ccb11f6ca3bbaa432344cdde54528f189e26f"
+                            alt="logo-team-AE"
+                        />
+
+                        AE
+                    </div>
+                    <div class="match-score-team">
+                        <div class="score">1 - 2</div>
+                    </div>
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/Rebellion%20x64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=6e58471576c8db18d7d39c44906a55c14ff07ef9d7b2321191ad02abceca53e2"
+                            alt="logo-team-RBL"
+                        />
+
+                        RBL
+                    </div>
+                    <div class="match-detail">
+                        <div class="row">
+                            <div class="col-9">
+                                <div class="col-12">
+                                    Week 5
+                                </div>
+                                <div class="col-12" style="font-weight: 400;">
+                                    21 Apr - 15:00
+                                </div>
+                            </div>
+                            <div class="col-3 match-status-wl">
+                                LOSE
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="match-team" style="background-image: linear-gradient(to right, transparent 80%, #a0a0a0);">
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/onic-b-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=2bdc71ae6ff8d954a200ab3d2a582a71b8ce603d2c9fab87031fb3a54fedee86"
+                            alt="logo-team-ONIC"
+                        />
+
+                        ONIC
+                    </div>
+                    <div class="match-score-team">
+                        <div class="score">2 - 1</div>
+                    </div>
+                    <div class="match-logo">
+                        <img
+                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T073725Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=ff6e8cf2ac64bbff35042db12a5ccb11f6ca3bbaa432344cdde54528f189e26f"
+                            alt="logo-team-AE"
+                        />
+
+                        AE
+                    </div>
+                    <div class="match-detail">
+                        <div class="row">
+                            <div class="col-9">
+                                <div class="col-12">
+                                    Week 6
+                                </div>
+                                <div class="col-12" style="font-weight: 400;">
+                                    27 Apr - 20:50
+                                </div>
+                            </div>
+                            <div class="col-3 match-status-wl">
+                                LOSE
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="pb-5"></div>
+</div>
