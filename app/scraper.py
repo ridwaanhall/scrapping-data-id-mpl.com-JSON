@@ -53,7 +53,19 @@ def fetch_standings(url: str):
         
         game_rate = game_win / (game_win + game_lose)
 
-        standings = {
+        # standings = {
+        #     'team_name': team_name.replace('\n                                                    \n\n                                                        ', ' - '),
+        #     'team_rank': int(team_rank),
+        #     'team_logo': team_logo,
+        #     'match_point': int(match_point),
+        #     'match_record': match_record,
+        #     'net_game_win': int(net_game_win),
+        #     'game_record': game_record,
+        #     'game_rate': game_rate
+        # }
+        # standings.append(standings)
+        
+        standings.append({
             'team_name': team_name.replace('\n                                                    \n\n                                                        ', ' - '),
             'team_rank': int(team_rank),
             'team_logo': team_logo,
@@ -62,8 +74,7 @@ def fetch_standings(url: str):
             'net_game_win': int(net_game_win),
             'game_record': game_record,
             'game_rate': game_rate
-        }
-        standings.append(standings)
+            })
 
     return standings
 
@@ -207,100 +218,119 @@ def fetch_teams(url: str):
     return teams
 
 
-def fetch_team_ae(url: str):
-    # response = requests.get(url)
-    # if response.status_code != 200:
-    #     return {'error': 'Failed to fetch data'}
-
-    # soup = BeautifulSoup(response.text, 'html.parser')
-
-    # team_data = {}
-
-    # # Find team name and social media links
-    # team_info = soup.find('div', class_='col-lg-8 offset-lg-2')
-    # if team_info:
-    #     team_name = team_info.find('h4').text.strip()
-    #     team_data['team_name'] = team_name
-
-    #     social_media_links = team_info.find('div', class_='icon-socmed')
-    #     if social_media_links:
-    #         social_media = {}
-    #         for link in social_media_links.find_all('a'):
-    #             platform = link['href'].split('/')[-1]
-    #             social_media[platform] = link['href']
-    #         team_data['social_media'] = social_media
-
-    # # Find player and coach information
-    # roster_section = soup.find('div', {'data-ga-impression': 'Section Roster Team Detail'})
-    # if roster_section:
-    #     roster_data = []
-    #     for player_info in roster_section.find_all('div', class_='col-md-3 col-6'):
-    #         player_name = player_info.find('div', class_='player-name').text.strip()
-    #         player_role = player_info.find('div', class_='player-role').text.strip()
-    #         roster_data.append({'player_name': player_name, 'player_role': player_role})
-    #     team_data['roster'] = roster_data
-
-    # # Find match details
-    # match_section = soup.find('div', {'data-ga-impression': 'Section Match Team Detail'})
-    # if match_section:
-    #     match_data = []
-    #     for match_info in match_section.find_all('div', class_='match-team'):
-    #         match_detail = {}
-    #         match_detail['opponent'] = match_info.find_all('div', class_='match-logo')[-1].text.strip()
-    #         match_detail['score'] = match_info.find('div', class_='score').text.strip()
-    #         # match_detail['date'] = match_info.find('div', style='font-weight: 400;').text.strip()
-    #         match_detail['result'] = match_info.find('div', class_='match-status-wl').text.strip()
-    #         match_data.append(match_detail)
-    #     team_data['matches'] = match_data
-
-    # return team_data
-    
-    # Fetch the HTML content
+def fetch_team_data(url: str):
     response = requests.get(url)
-    html_content = response.text
+    if response.status_code != 200:
+        return {"error": "Failed to fetch data"}
 
-    # Parse the HTML
-    soup = BeautifulSoup(html_content, "html.parser")
+    soup = BeautifulSoup(response.text, 'html.parser')
 
-    # Extract team information
-    team_name = soup.find("h4", class_="d-flex").text.strip()
-    team_logo_url = soup.find("img", class_="team-logo")["src"]
+    data = {}
+
+    # Extract team name and logo
+    try:
+        team_info = soup.find('h4', class_='d-flex flex-row justify-content-center align-items-center')
+        if not team_info:
+            raise ValueError("Team info not found")
+        team_name = team_info.text.strip()
+        team_logo_tag = team_info.find('img')
+        team_logo = team_logo_tag['src'] if team_logo_tag else None
+        data['team_name'] = team_name
+        data['team_logo'] = team_logo
+    except (AttributeError, ValueError) as e:
+        data['team_info_error'] = str(e)
 
     # Extract social media links
     social_media_links = {}
-    social_media_div = soup.find("div", class_="icon-socmed")
-    for link in social_media_div.find_all("a"):
-        social_media_links[link["href"]] = link.find("i")["class"][0].split("-")[-1]
+    try:
+        socmed_div = soup.find('div', class_='icon-socmed')
+        if socmed_div:
+            for link in socmed_div.find_all('a'):
+                icon_class = link.find('i')['class'][0]
+                if 'facebook' in icon_class:
+                    social_media_links['facebook'] = link['href']
+                elif 'instagram' in icon_class:
+                    social_media_links['instagram'] = link['href']
+                elif 'youtube' in icon_class:
+                    social_media_links['youtube'] = link['href']
+        data['social_media_links'] = social_media_links
+    except AttributeError as e:
+        data['social_media_error'] = str(e)
 
-    # Extract roster for Season 13
-    roster = []
-    roster_div = soup.find("div", {"data-ga-impression": "Section Roster Team Detail"})
-    for player_div in roster_div.find_all("div", class_="col-md-3"):
-        player_name = player_div.find("div", class_="player-name").text.strip()
-        player_role = player_div.find("div", class_="player-role").text.strip()
-        player_image_url = player_div.find("img")["src"]
-        roster.append({"name": player_name, "role": player_role, "image_url": player_image_url})
+    # Extract roster data
+    players = []
+    try:
+        roster_section = soup.find('div', {'data-ga-impression': 'Section Roster Team Detail'})
+        if not roster_section:
+            raise ValueError("Roster section not found")
+        roster_title = roster_section.find('h5', class_='text-center').text.strip()
+        player_divs = roster_section.find_all('div', class_='col-md-3 col-6')
+        for player_div in player_divs:
+            player_image_tag = player_div.find('img')
+            player_image = player_image_tag['src'] if player_image_tag else None
+            player_name = player_div.find('div', class_='player-name').text.strip()
+            player_role = player_div.find('div', class_='player-role').text.strip()
+            players.append({
+                'name': player_name,
+                'role': player_role,
+                'image': player_image
+            })
+        data['roster'] = {
+            'title': roster_title,
+            'players': players
+        }
+    except (AttributeError, ValueError) as e:
+        data['roster_error'] = str(e)
 
-    # Extract match details for Season 13
+    # Extract match data
     matches = []
-    matches_div = soup.find("div", {"data-ga-impression": "Section Match Team Detail"})
-    for match_div in matches_div.find_all("div", class_="match-team"):
-        teams = match_div.find_all("div", class_="match-logo")
-        team1 = teams[0].text.strip()
-        team2 = teams[1].text.strip()
-        score = match_div.find("div", class_="score").text.strip()
-        status = match_div.find("div", class_="match-status-wl").text.strip()
-        date_info = match_div.find_all("div", class_="col-12")
-        # week = date_info[0].text.strip()
-        # date = date_info[1].text.strip()
-        matches.append({"team1": team1, "team2": team2, "score": score, "status": status, 
-                        })
+    try:
+        match_section = soup.find('div', {'data-ga-impression': 'Section Match Team Detail'})
+        if not match_section:
+            raise ValueError("Match section not found")
+        match_title = match_section.find('h5', class_='text-center').text.strip()
+        match_divs = match_section.find_all('div', class_='match-team')
+        for match_div in match_divs:
+            teams = match_div.find_all('div', class_='match-logo')
+            if len(teams) < 2:
+                continue  # Ensure there are two teams in the match
+            team1_logo_tag = teams[0].find('img')
+            team1_logo = team1_logo_tag['src'] if team1_logo_tag else None
+            team1 = {
+                'name': teams[0].text.strip(),
+                'logo': team1_logo
+            }
+            team2_logo_tag = teams[1].find('img')
+            team2_logo = team2_logo_tag['src'] if team2_logo_tag else None
+            team2 = {
+                'name': teams[1].text.strip(),
+                'logo': team2_logo
+            }
+            score = match_div.find('div', class_='score').text.strip()
+            week_date = match_div.find('div', class_='col-9').text.strip().replace('\n                                                                                    \n\n                                            ', ' | ')
+            
+            # Split week_date into week and date
+            if ' | ' in week_date:
+                week, date = week_date.split(' | ')
+            else:
+                week = week_date
+                date = None
+            
+            status = match_div.find('div', class_='match-status-wl').text.strip()
+            matches.append({
+                'team1': team1,
+                'team2': team2,
+                'score': score,
+                # 'week_date': week_date,
+                'week': week,
+                'date': date,
+                'status': status
+            })
+        data['matches'] = {
+            'title': match_title,
+            'matches': matches
+        }
+    except (AttributeError, ValueError) as e:
+        data['matches_error'] = str(e)
 
-    # Return the extracted data
-    return {
-        "team_name": team_name,
-        "team_logo_url": team_logo_url,
-        "social_media_links": social_media_links,
-        "roster": roster,
-        "matches": matches
-    }
+    return data
