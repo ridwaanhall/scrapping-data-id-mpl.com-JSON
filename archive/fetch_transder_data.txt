@@ -1,0 +1,71 @@
+def fetch_transfer_data(url: str):
+    response = requests.get(url)
+    if response.status_code != 200:
+        return {"error": "Failed to fetch data"}
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    transfer_cards = soup.find_all('div', class_='transfer-card')
+    transfers = []
+
+    for card in transfer_cards:
+        # Extracting date
+        date_elem = card.find('div', class_='text-center')
+        date = date_elem.text.strip() if date_elem else None
+
+        # Extracting player info
+        player_info = card.find('div', class_='col-lg-4')
+        if player_info:
+            player_name_elem = player_info.find('div', style='font-weight: 600;')
+            player_name = player_name_elem.text.strip() if player_name_elem else None
+
+            player_role_elem = player_info.find('div', style='font-size: 0.8rem;')
+            player_role = player_role_elem.text.strip() if player_role_elem else None
+        else:
+            player_name = None
+            player_role = None
+
+        # Extracting team info
+        team_info = card.find('div', class_='row justify-content-center align-items-center')
+        if team_info:
+            team1_elem = team_info.find_all('div', class_='team-name')
+            if team1_elem:
+                team1_name = team1_elem[0].text.strip()
+            else:
+                team1_name = None
+
+            team2_elem = team_info.find_all('div', class_='team-name')
+            if len(team2_elem) > 1:
+                team2_name = team2_elem[1].text.strip()
+            else:
+                team2_name = None
+
+            team1_logo_elem = team_info.find('img')
+            team1_logo = team1_logo_elem['src'] if team1_logo_elem else None
+
+            team2_logo_elem = team_info.find_all('img')
+            team2_logo = team2_logo_elem[1]['src'] if len(team2_logo_elem) > 1 else None
+        else:
+            team1_name = None
+            team2_name = None
+            team1_logo = None
+            team2_logo = None
+
+        transfer_data = {
+            "date": date,
+            "player": {
+                "name": player_name,
+                "role": player_role
+            },
+            "team1": {
+                "name": team1_name,
+                "logo": team1_logo
+            },
+            "team2": {
+                "name": team2_name,
+                "logo": team2_logo
+            }
+        }
+        transfers.append(transfer_data)
+
+    return transfers
