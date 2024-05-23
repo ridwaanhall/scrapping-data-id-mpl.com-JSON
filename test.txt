@@ -1,1885 +1,394 @@
-<div class="content-wrap bg-barong title-ornaments pt-0">
-    <h4 class="text-center">
-        BURSA TRANSFER MPL INDONESIA
-    </h4>
+<div class="mb-4">
+    <div class="row">
+        <div class="col-lg-2 mb-3 mb-lg-0">
+            <div class="match-category-flex d-flex flex-column jusitfy-content-start align-items-start mb-3">
+                <div class="match-category-day">Day 1</div>
+                <div class="match-category-date">Rabu, 5 Juni 2024</div>
+            </div>
+        </div>
 
-    <div class="container pt-lg-4 pb-4">
-        <div class="row">
-            <div class="col-lg-10 offset-lg-1">
-
-                <div class="position-relative">
-                    <div class="transfer-card date-2024-05 role-midlane team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">30 May 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Octa</div>
-                                    <div style="font-size: 0.8rem;">Midlane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RRQ
-                                            </div>
+        <div class="col-lg-10">
+            <div>
+                <div class="row">
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <a href="https://mplid.cognitix.id/mplid/mpl-id-playoff-round-1-gdg5-match1?utm_source=web-ticket" target="_blank" class="match-url">
+                            <div class="match-card">
+                                <div class="row align-items-center mx-lg-0">
+                                    <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                        <div class="match-card-img mb-2">
+                                            <img
+                                                src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/thumbnail_hd_playoffs_match_1_geek_rrq.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T032247Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=edc3dca52c9a51d076db1260c5af69ea77c9d0acbf4670a9f218476961da4c67"
+                                                class="w-100"
+                                            />
                                         </div>
                                     </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
+                                    <div class="col-7 col-lg-12 px-lg-0">
+                                        <div class="d-flex flex-column justify-content-start align-items-start">
+                                            <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                                <div class="match-name">
+                                                    GEEK vs RRQ
+                                                </div>
+                                                <div class="d-none d-lg-block">
+                                                    <button class="button button-watch button-ticket m-0 mb-1">BUY TICKET</button>
+                                                </div>
                                             </div>
-                                            <div class="team-name">
-                                                FREE AGENT
+                                            <div class="d-flex justify-content-start align-items-start">
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Playoffs Match 1</div>
+                                                    <div>13:00 WIB</div>
+                                                </div>
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Open Gate</div>
+                                                    <div>12:00 WIB</div>
+                                                </div>
+                                            </div>
+                                            <div class="d-lg-none">
+                                                <button class="button button-watch button-ticket mx-0">BUY TICKET</button>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                    <div class="transfer-card date-2024-05 role-jungler team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">30 May 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Ferxiic</div>
-                                    <div style="font-size: 0.8rem;">Jungler</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <a href="https://mplid.cognitix.id/mplid/mpl-id-playoff-round-2-hfbg-match2?utm_source=web-ticket" target="_blank" class="match-url">
+                            <div class="match-card">
+                                <div class="row align-items-center mx-lg-0">
+                                    <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                        <div class="match-card-img mb-2">
+                                            <img
+                                                src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/Thumbnail%20HD%20PLAYOFFS%20match%202%20TLID%20EVOS.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T041821Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=f25f67634f541110babc7094b922f85bea358d329a68fc610cfdd1d0283764dc"
+                                                class="w-100"
+                                            />
                                         </div>
                                     </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
+                                    <div class="col-7 col-lg-12 px-lg-0">
+                                        <div class="d-flex flex-column justify-content-start align-items-start">
+                                            <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                                <div class="match-name">
+                                                    TLID vs EVOS
+                                                </div>
+                                                <div class="d-none d-lg-block">
+                                                    <button class="button button-watch button-ticket m-0 mb-1">BUY TICKET</button>
+                                                </div>
                                             </div>
-                                            <div class="team-name">
-                                                RRQ
+                                            <div class="d-flex justify-content-start align-items-start">
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Playoffs Match 2</div>
+                                                    <div>18:15 WIB</div>
+                                                </div>
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Open Gate</div>
+                                                    <div>17:15 WIB</div>
+                                                </div>
+                                            </div>
+                                            <div class="d-lg-none">
+                                                <button class="button button-watch button-ticket mx-0">BUY TICKET</button>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                    <div class="transfer-card date-2024-04 role-analyst team-btr">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">23 Apr 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Falah</div>
-                                    <div style="font-size: 0.8rem;">Analyst</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/btr-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=7c1cad75b10586911eaaf4d6ad756fb15a910989aa6085c73482cde5eaea2f3d"
-                                                    alt="BTR"
-                                                    class="logo"
-                                                />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr class="mt-2 mb-4 my-lg-5 match-divider" />
+    <div class="row">
+        <div class="col-lg-2 mb-3 mb-lg-0">
+            <div class="match-category-flex d-flex flex-column jusitfy-content-start align-items-start mb-3">
+                <div class="match-category-day">Day 2</div>
+                <div class="match-category-date">Kamis, 6 Juni 2024</div>
+            </div>
+        </div>
+
+        <div class="col-lg-10">
+            <div>
+                <div class="row">
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <a href="https://mplid.cognitix.id/mplid/mpl-id-playoff-round-2-absr-match3?utm_source=web-ticket" target="_blank" class="match-url">
+                            <div class="match-card">
+                                <div class="row align-items-center mx-lg-0">
+                                    <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                        <div class="match-card-img mb-2">
+                                            <img
+                                                src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/thumbnail_hd_playoffs_match_3_wm1_onic.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T032247Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=dc455fa12f603dbcb2dd56d7c3757e021ab026fc2263d335d1479884b16f62cb"
+                                                class="w-100"
+                                            />
+                                        </div>
+                                    </div>
+                                    <div class="col-7 col-lg-12 px-lg-0">
+                                        <div class="d-flex flex-column justify-content-start align-items-start">
+                                            <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                                <div class="match-name"></div>
+                                                <div class="d-none d-lg-block">
+                                                    <button class="button button-watch button-ticket m-0 mb-1">BUY TICKET</button>
+                                                </div>
                                             </div>
-                                            <div class="team-name">
-                                                BTR
+                                            <div class="d-flex justify-content-start align-items-start">
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Playoffs Match 3</div>
+                                                    <div>13:00 WIB</div>
+                                                </div>
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Open Gate</div>
+                                                    <div>12:00 WIB</div>
+                                                </div>
+                                            </div>
+                                            <div class="d-lg-none">
+                                                <button class="button button-watch button-ticket mx-0">BUY TICKET</button>
                                             </div>
                                         </div>
                                     </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                    <div class="transfer-card date-2024-04 role-analyst team-btr">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">23 Apr 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Archangel</div>
-                                    <div style="font-size: 0.8rem;">Analyst</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <a href="https://mplid.cognitix.id/mplid/mpl-id-playoff-round-2-mtqc-match4?utm_source=web-ticket" target="_blank" class="match-url">
+                            <div class="match-card">
+                                <div class="row align-items-center mx-lg-0">
+                                    <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                        <div class="match-card-img mb-2">
+                                            <img
+                                                src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/thumbnail_hd_playoffs_match_4_wm2_btr.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T032247Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=8fb24880fb4ebf4c970a9fa9cdedbc7a208fa4683e8ff4fe2de7d72a9675c4aa"
+                                                class="w-100"
+                                            />
                                         </div>
                                     </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/btr-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=7c1cad75b10586911eaaf4d6ad756fb15a910989aa6085c73482cde5eaea2f3d"
-                                                    alt="BTR"
-                                                    class="logo"
-                                                />
+                                    <div class="col-7 col-lg-12 px-lg-0">
+                                        <div class="d-flex flex-column justify-content-start align-items-start">
+                                            <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                                <div class="match-name"></div>
+                                                <div class="d-none d-lg-block">
+                                                    <button class="button button-watch button-ticket m-0 mb-1">BUY TICKET</button>
+                                                </div>
                                             </div>
-                                            <div class="team-name">
-                                                BTR
+                                            <div class="d-flex justify-content-start align-items-start">
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Playoffs Match 4</div>
+                                                    <div>18:15 WIB</div>
+                                                </div>
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Open Gate</div>
+                                                    <div>17:15 WIB</div>
+                                                </div>
+                                            </div>
+                                            <div class="d-lg-none">
+                                                <button class="button button-watch button-ticket mx-0">BUY TICKET</button>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                    <div class="transfer-card date-2024-03 role-roamer team-btr team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">26 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">VYN</div>
-                                    <div style="font-size: 0.8rem;">Roamer</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/btr-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=7c1cad75b10586911eaaf4d6ad756fb15a910989aa6085c73482cde5eaea2f3d"
-                                                    alt="BTR"
-                                                    class="logo"
-                                                />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr class="mt-2 mb-4 my-lg-5 match-divider" />
+    <div class="row">
+        <div class="col-lg-2 mb-3 mb-lg-0">
+            <div class="match-category-flex d-flex flex-column jusitfy-content-start align-items-start mb-3">
+                <div class="match-category-day">Day 3</div>
+                <div class="match-category-date">Jumat, 7 Juni 2024</div>
+            </div>
+        </div>
+
+        <div class="col-lg-10">
+            <div>
+                <div class="row">
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <a href="https://mplid.cognitix.id/mplid/mpl-id-playoff-lower-semi-final-nylm?utm_source=web-ticket" target="_blank" class="match-url">
+                            <div class="match-card">
+                                <div class="row align-items-center mx-lg-0">
+                                    <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                        <div class="match-card-img mb-2">
+                                            <img
+                                                src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/lower-bracket-semi-final.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T080235Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a3831ddd5edf8bcc07fd6e817a953dafe84781f05644462bca5a55d72c9ebd51"
+                                                class="w-100"
+                                            />
+                                        </div>
+                                    </div>
+                                    <div class="col-7 col-lg-12 px-lg-0">
+                                        <div class="d-flex flex-column justify-content-start align-items-start">
+                                            <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                                <div class="match-name"></div>
+                                                <div class="d-none d-lg-block">
+                                                    <button class="button button-watch button-ticket m-0 mb-1">BUY TICKET</button>
+                                                </div>
                                             </div>
-                                            <div class="team-name">
-                                                BTR
+                                            <div class="d-flex justify-content-start align-items-start">
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Lower Bracket Semi Finals</div>
+                                                    <div>13:00 WIB</div>
+                                                </div>
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Open Gate</div>
+                                                    <div>12:00 WIB</div>
+                                                </div>
+                                            </div>
+                                            <div class="d-lg-none">
+                                                <button class="button button-watch button-ticket mx-0">BUY TICKET</button>
                                             </div>
                                         </div>
                                     </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RRQ
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                    <div class="transfer-card date-2024-03 role-midlane team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">26 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Lemon</div>
-                                    <div style="font-size: 0.8rem;">Midlane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <a href="https://mplid.cognitix.id/mplid/mpl-id-playoff-upper-final-m7my?utm_source=web-ticket" target="_blank" class="match-url">
+                            <div class="match-card">
+                                <div class="row align-items-center mx-lg-0">
+                                    <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                        <div class="match-card-img mb-2">
+                                            <img
+                                                src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/clear-upfinal.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T080235Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=70f593b2597258a2ac4c80a05074fc9e97c0f320c34ad8b5fdb89e1be3a05768"
+                                                class="w-100"
+                                            />
                                         </div>
                                     </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
+                                    <div class="col-7 col-lg-12 px-lg-0">
+                                        <div class="d-flex flex-column justify-content-start align-items-start">
+                                            <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                                <div class="match-name"></div>
+                                                <div class="d-none d-lg-block">
+                                                    <button class="button button-watch button-ticket m-0 mb-1">BUY TICKET</button>
+                                                </div>
                                             </div>
-                                            <div class="team-name">
-                                                RRQ
+                                            <div class="d-flex justify-content-start align-items-start">
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Upper Bracket Finals</div>
+                                                    <div>18:15 WIB</div>
+                                                </div>
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Open Gate</div>
+                                                    <div>17:15 WIB</div>
+                                                </div>
+                                            </div>
+                                            <div class="d-lg-none">
+                                                <button class="button button-watch button-ticket mx-0">BUY TICKET</button>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                    <div class="transfer-card date-2024-03 role- team-oncp team-onic">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">26 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Lutpiii</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season12/Team_logo/onic-500.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=1b57a402b0b8fb958c012d52ee426589a0cb5f56e7c201d25d1d7608098928f4"
-                                                    alt="ONCP"
-                                                    class="logo"
-                                                />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr class="mt-2 mb-4 my-lg-5 match-divider" />
+    <div class="row">
+        <div class="col-lg-2 mb-3 mb-lg-0">
+            <div class="match-category-flex d-flex flex-column jusitfy-content-start align-items-start mb-3">
+                <div class="match-category-day">Day 4</div>
+                <div class="match-category-date">Sabtu, 8 Juni 2024</div>
+            </div>
+        </div>
+
+        <div class="col-lg-10">
+            <div>
+                <div class="row">
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <a href="https://mplid.cognitix.id/mplid/mpl-id-playoff-lower-bracket-finals-i6ua?utm_source=web-ticket" target="_blank" class="match-url">
+                            <div class="match-card">
+                                <div class="row align-items-center mx-lg-0">
+                                    <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                        <div class="match-card-img mb-2">
+                                            <img
+                                                src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/clear-lofinal.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T080235Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=095dcd26c1177775a3ac2fb3b052527d29d7ed980f5c215c02e4f4ac133f1e7c"
+                                                class="w-100"
+                                            />
+                                        </div>
+                                    </div>
+                                    <div class="col-7 col-lg-12 px-lg-0">
+                                        <div class="d-flex flex-column justify-content-start align-items-start">
+                                            <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                                <div class="match-name"></div>
+                                                <div class="d-none d-lg-block">
+                                                    <button class="button button-watch button-ticket m-0 mb-1">BUY TICKET</button>
+                                                </div>
                                             </div>
-                                            <div class="team-name">
-                                                ONCP (MDL)
+                                            <div class="d-flex justify-content-start align-items-start">
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Lower Bracket Finals</div>
+                                                    <div>18:15 WIB</div>
+                                                </div>
+                                                <div class="match-date">
+                                                    <div class="text-italic match-title">Open Gate</div>
+                                                    <div>17:15 WIB</div>
+                                                </div>
+                                            </div>
+                                            <div class="d-lg-none">
+                                                <button class="button button-watch button-ticket mx-0">BUY TICKET</button>
                                             </div>
                                         </div>
                                     </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/onic-b-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=ec42cc1bc0a70eebbce6476f944c7a3c2c5359917a9522feb5120aec8334a0cf"
-                                                    alt="ONIC"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                ONIC (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
-                    <div class="transfer-card date-2024-03 role-midlane team-evos team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Warlord</div>
-                                    <div style="font-size: 0.8rem;">Midlane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
+    <hr class="mt-2 mb-4 my-lg-5 match-divider" />
+    <div class="row">
+        <div class="col-lg-2 mb-3 mb-lg-0">
+            <div class="match-category-flex d-flex flex-column jusitfy-content-start align-items-start mb-3">
+                <div class="match-category-day">Day 5</div>
+                <div class="match-category-date">Minggu, 9 Juni 2024</div>
+            </div>
+        </div>
 
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS (MDL)
-                                            </div>
-                                        </div>
+        <div class="col-lg-10">
+            <div>
+                <div class="row">
+                    <div class="col-lg-4 mb-3 mb-lg-0 px-lg-4">
+                        <div class="match-card soldout">
+                            <div class="row align-items-center mx-lg-0">
+                                <div class="col-5 col-lg-12 pe-1 px-lg-0">
+                                    <div class="match-card-img mb-2">
+                                        <img
+                                            src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Ticket_thumbnail/Playoffs/clear-gf.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T080235Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=57e23a80eb795b96b94f9fe904b9803ce1333eac78316921a085475c44eb4863"
+                                            class="w-100"
+                                        />
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-roamer team-evos team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Vaanstrong</div>
-                                    <div style="font-size: 0.8rem;">Roamer</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
+                                <div class="col-7 col-lg-12 px-lg-0">
+                                    <div class="d-flex flex-column justify-content-start align-items-start">
+                                        <div class="d-flex justify-content-between align-items-center w-100 mb-1">
+                                            <div class="match-name"></div>
+                                            <div class="d-none d-lg-block"></div>
+                                        </div>
+                                        <div class="d-flex justify-content-start align-items-start">
+                                            <div class="match-date">
+                                                <div class="text-italic match-title">Grand Finals</div>
+                                                <div>17:00 WIB</div>
                                             </div>
-                                            <div class="team-name">
-                                                EVOS (MPL)
+                                            <div class="match-date">
+                                                <div class="text-italic match-title">Open Gate</div>
+                                                <div>16:00 WIB</div>
                                             </div>
                                         </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS (MDL)
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-exp-lane team-evos team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Veldora</div>
-                                    <div style="font-size: 0.8rem;">Exp Lane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS (MDL)
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-gold-laner team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Alditto</div>
-                                    <div style="font-size: 0.8rem;">Gold Laner</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-midlane team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">clawkun</div>
-                                    <div style="font-size: 0.8rem;">Midlane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-roamer team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">DreamS</div>
-                                    <div style="font-size: 0.8rem;">Roamer</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-jungle team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Anavel</div>
-                                    <div style="font-size: 0.8rem;">Jungle</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-goldlane team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Natco</div>
-                                    <div style="font-size: 0.8rem;">Goldlane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-exp-lane team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">FLUFFY</div>
-                                    <div style="font-size: 0.8rem;">EXP Lane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-roamer team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Panser</div>
-                                    <div style="font-size: 0.8rem;">Roamer</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-head-coach team-evos">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">19 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">StrateG</div>
-                                    <div style="font-size: 0.8rem;">Head Coach</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role-mid-lane team-ae team-aex">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">12 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">RoundeL</div>
-                                    <div style="font-size: 0.8rem;">Mid Lane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-500.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=0c5d7c923c7ed6db8752f9d60167cfe66335404d194e496b77016559ada26d72"
-                                                    alt="AEX"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AEX (MDL)
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-03 role- team-aex team-ae">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">12 Mar 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Celiboy</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-500.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=0c5d7c923c7ed6db8752f9d60167cfe66335404d194e496b77016559ada26d72"
-                                                    alt="AEX"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AEX (MDL)
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-02 role-coach team-apbr team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">18 Feb 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Vren</div>
-                                    <div style="font-size: 0.8rem;">Coach</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/team/logo-apbr.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=c45bcae56aa34b6b00956a38671fc7b9d0b190c59af75473129bac011c97c596"
-                                                    alt="APBR"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                APBR
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RRQ
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-02 role-jungler team-btr team-dewa">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">7 Feb 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Garry</div>
-                                    <div style="font-size: 0.8rem;">Jungler</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/btr-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=7c1cad75b10586911eaaf4d6ad756fb15a910989aa6085c73482cde5eaea2f3d"
-                                                    alt="BTR"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                BTR (MDL)
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/dewa-256.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T230331Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=e85213de34398aa06b1b2f6f80cb943f2aaf7cd23c660b57f2934df6a17574e6"
-                                                    alt="DEWA"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                DEWA (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-02 role-gold-lane team-oncp team-rbl">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">6 Feb 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">dee</div>
-                                    <div style="font-size: 0.8rem;">Gold Lane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season12/Team_logo/onic-500.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=1b57a402b0b8fb958c012d52ee426589a0cb5f56e7c201d25d1d7608098928f4"
-                                                    alt="ONCP"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                ONCP (MDL)
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/Rebellion%20x64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=6015c7202a5943f78897392894ac02c2242fcd3249d3b7bb1e5fba0e989447df"
-                                                    alt="RBL"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RBL (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-mid-lane team-evos team-ae">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">24 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Cr1te</div>
-                                    <div style="font-size: 0.8rem;">Mid Lane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-coach team-dewa">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">24 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Caesius</div>
-                                    <div style="font-size: 0.8rem;">Coach</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/dewa-256.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T230331Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=e85213de34398aa06b1b2f6f80cb943f2aaf7cd23c660b57f2934df6a17574e6"
-                                                    alt="DEWA"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                DEWA
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-analyst team-dewa team-dewa">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">24 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Jacklee</div>
-                                    <div style="font-size: 0.8rem;">Analyst</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/dewa-united-500.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=cbf525975397280a41ed6f845a98b721f763c896f366b440331f121f6181f719"
-                                                    alt="DEWA"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                DEWA (MDL)
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/dewa-256.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T230331Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=e85213de34398aa06b1b2f6f80cb943f2aaf7cd23c660b57f2934df6a17574e6"
-                                                    alt="DEWA"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                DEWA (MPL)
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-jungler team-tlid">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">18 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Gugunnn</div>
-                                    <div style="font-size: 0.8rem;">Jungler</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Logo/full_Logo%20Liquid%20x%20Aura%20Blue%20Text.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T001648Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=692d601ae9d57526f2f8a3e9062ec523aa7e462fcc07a2935afe0f5ac5e3f2f9"
-                                                    alt="TLID"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                TLID
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-roamer team-echo team-tlid">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">18 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">YAWI</div>
-                                    <div style="font-size: 0.8rem;">Roamer</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/team/echo-500.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=96fd7b9cb16a21f77c2d1f4b62bc387daccd460f300ee9999bdb011915bed98c"
-                                                    alt="ECHO"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                ECHO
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Logo/full_Logo%20Liquid%20x%20Aura%20Blue%20Text.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T001648Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=692d601ae9d57526f2f8a3e9062ec523aa7e462fcc07a2935afe0f5ac5e3f2f9"
-                                                    alt="TLID"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                TLID
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-jungler team-evos team-ae">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">15 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">TAZZ</div>
-                                    <div style="font-size: 0.8rem;">Jungler</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/evos-64-v2.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=a2420c7bd444ef182a76d04ef9c097fa3e44c293a1d13c54e2ec9cbcaf049929"
-                                                    alt="EVOS"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                EVOS
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-goldlane team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">11 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Bunnyqt</div>
-                                    <div style="font-size: 0.8rem;">Goldlane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RRQ
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role- team-ae team-hb">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">7 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Udil</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season12/Team_logo/homebois-logo.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=cdba6c374c23bf1b572e51a99681b95f8022f32ed12cf1bc68abb71b080035e0"
-                                                    alt="HB"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                HB
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2024-01 role-gold-lane team-rbl team-ae">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">4 Jan 2024</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">HAIZZ</div>
-                                    <div style="font-size: 0.8rem;">Gold Lane</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/Rebellion%20x64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=6015c7202a5943f78897392894ac02c2242fcd3249d3b7bb1e5fba0e989447df"
-                                                    alt="RBL"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RBL
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2023-12 role- team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">30 Dec 2023</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Naomi</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RRQ
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2023-12 role- team-ae">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">12 Dec 2023</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Variety</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2023-12 role-jungler team-rsg team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">11 Dec 2023</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">1rrad</div>
-                                    <div style="font-size: 0.8rem;">Jungler</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/team/rsg-ph-500.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=dc13757cb6d1f8dfd984d975b455fdc99a564269c180d32c63a460c5e6d2badf"
-                                                    alt="RSG"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RSG
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RRQ
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2023-12 role- team-tlid">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">8 Dec 2023</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">SamoHt</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/Logo/full_Logo%20Liquid%20x%20Aura%20Blue%20Text.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T001648Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=692d601ae9d57526f2f8a3e9062ec523aa7e462fcc07a2935afe0f5ac5e3f2f9"
-                                                    alt="TLID"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                TLID
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2023-12 role- team-dewa team-ae">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">7 Dec 2023</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">LeoMurphy</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/dewa-256.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T230331Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=e85213de34398aa06b1b2f6f80cb943f2aaf7cd23c660b57f2934df6a17574e6"
-                                                    alt="DEWA"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                DEWA
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/ae-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=9de4921de7958837238fc4744a650b68bd249ab282ef8dc6900944023c974d54"
-                                                    alt="AE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                AE
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2023-12 role-roamer team-mnne team-rrq">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">6 Dec 2023</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Brusko</div>
-                                    <div style="font-size: 0.8rem;">Roamer</div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/season13/team/logo-mnne.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T022817Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=88e47e18b4174fcecf05d786ec73039136feb3385df31529318e5dccd908a7ed"
-                                                    alt="MNNE"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                MNNE
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/rrq-64.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240523%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240523T033007Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=14ac2c9443cd8b7d15b05205eeecb963d517eab1bf3aedba5520e0327a2a5491"
-                                                    alt="RRQ"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                RRQ
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="transfer-card date-2023-12 role- team-dewa">
-                        <div class="row align-items-center">
-                            <div class="col-lg-2">
-                                <div class="text-center" style="font-size: 0.9rem;">6 Dec 2023</div>
-                            </div>
-                            <div class="col-lg-4">
-                                <div>
-                                    <div style="font-weight: 600;">Paddington</div>
-                                    <div style="font-size: 0.8rem;"></div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="row justify-content-center align-items-center">
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-end align-items-center">
-                                            <div class="me-2">
-                                                <img
-                                                    src="https://mplid-storage.sgp1.digitaloceanspaces.com/data/teams/dewa-256.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=DO009FUHAY8BZC8VR7EB%2F20240522%2Fsgp1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240522T230331Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=21600&amp;X-Amz-Signature=e85213de34398aa06b1b2f6f80cb943f2aaf7cd23c660b57f2934df6a17574e6"
-                                                    alt="DEWA"
-                                                    class="logo"
-                                                />
-                                            </div>
-                                            <div class="team-name">
-                                                DEWA
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-2 text-center px-2 transfer-divider">
-                                        <i class="fa-regular fa-circle-right"></i>
-                                    </div>
-
-                                    <div class="col-lg-5">
-                                        <div class="d-flex justify-content-center justify-content-lg-start align-items-center">
-                                            <div class="me-2">
-                                                <i class="fa-regular fa-circle-user"></i>
-                                            </div>
-                                            <div class="team-name">
-                                                FREE AGENT
-                                            </div>
-                                        </div>
+                                        <div class="d-lg-none"></div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="pt-5"></div>
             </div>
         </div>
     </div>

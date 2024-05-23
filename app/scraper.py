@@ -397,3 +397,46 @@ def fetch_transfer_data(url: str) -> List[Dict[str, any]]:
         })
 
     return transfer_data
+
+
+def fetch_overview_data(url: str) -> List[Dict[str, any]]:
+    response = requests.get(url)
+    if response.status_code != 200:
+        return {"error": "Failed to fetch data"}
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+    overview_content = soup.find('div', class_='overview-content')
+    if not overview_content:
+        return {"error": "No overview content found"}
+
+    left_images = overview_content.find('div', class_='left').find_all('img')
+    right_images = overview_content.find('div', class_='right').find_all('img')
+
+    left_images_data = []
+    for img in left_images:
+        if 'src' in img.attrs and img.attrs['class'][0] == 'd-none':
+            left_images_data.append({
+                'src': img['src'],
+                'alt': img.get('alt', ''),
+                'id': img.get('id', '')
+            })
+
+    right_images_data = []
+    for img in right_images:
+        if 'src' in img.attrs and img.attrs['class'][0] == 'd-none':
+            right_images_data.append({
+                'src': img['src'],
+                'alt': img.get('alt', ''),
+                'id': img.get('id', '')
+            })
+
+    overview_data = {
+        'left_images': left_images_data,
+        'right_images': right_images_data
+    }
+
+    return overview_data
+
+
+
+
