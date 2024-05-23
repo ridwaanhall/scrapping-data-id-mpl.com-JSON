@@ -1,7 +1,8 @@
 from flask import Blueprint, jsonify
 from .scraper import (
     fetch_standings, fetch_trending_videos, fetch_highlight_news, 
-    fetch_sub_news, fetch_game_highlights, fetch_teams, fetch_team_data
+    fetch_sub_news, fetch_game_highlights, fetch_teams, fetch_team_data,
+    fetch_transfer_data
 )
 
 bp = Blueprint('api', __name__, url_prefix='/api')
@@ -67,3 +68,12 @@ def team(team_id):
     base_url = 'https://id-mpl.com/team/'
     url = f"{base_url}{team_id}"
     return fetch_and_respond(fetch_team_data, url)
+
+
+@bp.route('/transfer', methods=['GET'])
+def transfer():
+    """
+    Fetch and return transfer data.
+    """
+    url = 'https://id-mpl.com/transfer'
+    return fetch_and_respond(fetch_transfer_data, url)
