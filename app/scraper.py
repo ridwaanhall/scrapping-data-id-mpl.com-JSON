@@ -1,5 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
+from typing import List, Dict
+
 
 def fetch_standings(url: str):
     response = requests.get(url)
@@ -334,3 +336,64 @@ def fetch_team_data(url: str):
         data['matches_error'] = str(e)
 
     return data
+
+
+def fetch_transfer_data(url: str) -> List[Dict[str, any]]:
+    response = requests.get(url)
+    if response.status_code != 200:
+        return {"error": "Failed to fetch data"}
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    transfer_cards = soup.find_all('div', class_='transfer-card')
+
+    transfer_data = []
+
+    for card in transfer_cards:
+        date = card.find('div', class_='text-center').text.strip()
+        player_name_div = card.find('div', class_='col-lg-4')
+        player_name_text = player_name_div.text.strip() if player_name_div else ''
+        
+        # Splitting player_name_text into name and role
+        split_player_name = player_name_text.split('\n', 1)
+        if len(split_player_name) == 2:
+            player_name, player_role = map(str.strip, split_player_name)
+        else:
+            player_name = split_player_name[0].strip()
+            player_role = ''
+            
+        # role_div = card.find('div', style={'font-size': '0.8rem'})
+        # role = role_div.text.strip() if role_div else ''
+
+        row = card.find('div', class_='row')
+        from_team_div = row.find('div', class_='col-lg-5')
+        from_team_logo = from_team_div.find('img')
+        if from_team_logo:
+            from_team_logo = from_team_logo['src']
+        else:
+            from_team_logo = ''
+        from_team_name = from_team_div.find('div', class_='team-name').text.strip().replace('\n                                                                                                                                                            ', ' ')
+
+        to_team_div = row.find_all('div', class_='col-lg-5')[1]
+        to_team_logo = to_team_div.find('img')
+        if to_team_logo:
+            to_team_logo = to_team_logo['src']
+        else:
+            to_team_logo = ''
+        to_team_name = to_team_div.find('div', class_='team-name').text.strip().replace('\n                                                                                                                                                            ', ' ')
+
+        transfer_data.append({
+            'date': date,
+            'player_name': player_name,
+            'player_role': player_role,
+            'from_team': {
+                'logo': from_team_logo,
+                'name': from_team_name
+            },
+            'to_team': {
+                'logo': to_team_logo,
+                'name': to_team_name
+            }
+        })
+
+    return transfer_data
